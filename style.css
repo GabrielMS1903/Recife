@@ -1,0 +1,121 @@
+* {
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#title {
+    color: brown;
+    text-align: center;
+}
+
+#h2-1 {
+    color: brown;
+    text-align: center;
+}
+
+#p-1 {
+    font-size: 16px;
+    text-align: justify;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#p-2 {
+    font-size: 16px;
+    text-align: justify;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#img-1 {
+    width: 550px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+#img-2 {
+    width: 550px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+#h3-1 {
+    color: brown;
+    text-align: center;
+}
+
+#h3-2 {
+    color: brown;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: chocolate;
+    text-align: center;
+}
+
+#ul-1 li  .toll {
+    text-decoration: none;
+    color: chocolate;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+#ot > li > a {
+    text-decoration: none;
+    color: chocolate;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+
+#norma {
+    background-color: brown;
+    margin-top: 10px;
+}
+
+#norma > span  {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+#norma > a {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+/*marco pontos*/
+
+#h1-2 {
+    color: brown;
+    text-align: center;  
+}
+
+#p-3, #p-4, #p-5 {
+    font-size: 16px;
+    text-align: justify;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+#img-3, #img-4, #img-5 {
+    width: 550px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+#container > h2 {
+    color: brown;
+    text-align: center;
+}
+
+#container > h3 {
+    color: brown;
+    text-align: center;
+}
